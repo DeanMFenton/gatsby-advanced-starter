@@ -1,0 +1,131 @@
+# Getting started with Cleeng Core
+The Cleeng Core is the main module. This tutorial describes its five components.
+
+## 1. Identity and Access Management
+Use this to accelerate sign-ups to your product. It takes just a few seconds to create an account then purchase access.
+
+### Social Login
+Facebook & Google users can register with one click, without a visible Login or Registration process.
+
+### SSO
+Single sign-on lets users log in across different platforms.
+
+### Trial Sign Ups
+You can configure trial periods & fees
+
+### Registration Forms
+We recommend creating a login/registration form in your app as this lets you capture additional user information.
+
+### Terms & Conditions
+Stay compliant with viewers
+
+### Multilingual Platform
+Over 20  languages are supported.
+
+
+
+## 2. Product Entitlements
+
+Ensure Video Restrictions
+
+### Access Control
+Control access to paid content
+
+### Geo-Targeting
+Limit usage to specific regions
+
+### Instant Apps Entitlements
+Android, iOS, Amazon Fire, Roku
+
+### Price per Country
+Same offer, different price plan
+
+### Integrated with MPVD
+Authenticate entitlements with Pay TV
+
+### Instant Communication Alerts
+API push notifications
+
+
+
+## 3. Subscriber Billing
+
+This lets you maximize subscription revenue.
+
+### Flexible Offers
+Season passes, bundles, SVOD, TVOD
+
+### Promotions
+65 different coupons
+
+### Recurring Billing
+Simplify the billing cycles
+
+### Global Tax Management
+Cleeng makes it easy to comply with local taxes & VAT. Outside the EU, taxes do not apply. In the EU viewers are automatically charged the correct VAT rate.
+
+### Integrated Payment Gateways
+Cleeng supports over 180 different payment methods and 22+ currencies.
+We support Paypal, mobile payments and all major credit cards. One-click payment is available.
+
+### Dunning Optimisation
+Automated payment collection retries
+
+
+## 4. Customer Service
+
+Increase Customer Retention
+
+### View Customer Profiles & Inquiries
+Manage from a single dashboard
+
+### Self-Service Portal
+Manage cancellations, refunds & NPS
+
+### Enriched Customer Inquiry Form
+Review user requests faster
+
+### QoE & QoS Pre-Integration
+In-depth service quality metrics are 
+
+### ZenDesk & Freshdesk Pre-Integration
+Enterprise-level help desk services make getting support easy.
+
+
+## 5. Analytics Dashboards
+
+Broadcasters can use these dashboards to get strategic insights into their business.
+
+### Real-Time Analytics
+Aggregate data across different sources
+
+### Unique 360° Customer View
+Subscriber acquisition, offer & churn analytics
+
+### Financial Performance
+Monitor sales, revenue and profit trends.
+You will receive a daily transaction report from Cleeng with all the viewer data you need. 
+
+### End-User Support Reporting
+Track inquiries and payment refunds
+
+### Custom Generated Reports
+Export reports in xls or CSV
+
+### Seamless Data Integration
+Rich API library for Big Data analysis
+END
+
+
+# Other doc:
+Video Meta
+
+Offers & Subscriptions
+
+Security
+
+Satisfaction and Support
+
+Payment Logic
+
+Commerce
